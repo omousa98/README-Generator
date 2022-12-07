@@ -17,6 +17,6 @@ In order to live test the application a pull/fork is required!
 
 ![ReadMe Generator Demo](https://raw.githubusercontent.com/omousa98/README-Generator/main/assets/Readme%20gif.gif)
 
-## Youtube
+## Youtube (Click on Image to be directed to youtube)
 
 [![ReadMe Walkthrough](https://raw.githubusercontent.com/omousa98/README-Generator/main/assets/readmewalkthrough.jpg)](https://www.youtube.com/watch?v=bZlJL4ptIvA)
