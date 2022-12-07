@@ -19,4 +19,4 @@ In order to live test the application a pull/fork is required!
 
 ## Youtube
 
-![ReadMe Generator Walkthrough](https://www.youtube.com/watch?v=bZlJL4ptIvA)
+![image alt text](https://raw.githubusercontent.com/omousa98/README-Generator/main/assets/readmewalkthrough.jpg)[link text](https://www.youtube.com/watch?v=bZlJL4ptIvA)
